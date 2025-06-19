@@ -1,5 +1,8 @@
-title: "Nadir'in Kırılganlığı"
-description: "Nadir olanın hikâyesi"
+title: Narin'in Kırılganlığı
+description: Narin Olanın Hikayesi
 theme: just-the-docs
-url: "https://utkuperktas.github.io/kitap-online"
-baseurl: "/kitap-online"
+
+url: https://just-the-docs.github.io
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
