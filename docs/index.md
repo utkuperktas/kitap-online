@@ -5,7 +5,6 @@ nav_order: 1
 ---
 
 <div align="center">
-
 # GİRİŞ
 ## Nadir’in Kırılganlığı
 </div>
