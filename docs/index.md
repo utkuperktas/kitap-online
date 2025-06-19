@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Giriş
@@ -13,4 +12,3 @@ Doğadaki çeşitliliğin vazgeçilmez bir bileşeni olan nadir, “kırılgan�
 Bu yüzden her tarih taşıyan yer kıymetlidir. Eski örnekler mesela: Doğa tarihi müzeleri, dioramalara hapsolmuş gibi görünen canlı ama cansız bedenlerin mekânı… Müze çekmeceleri, etiketlenmiş fakat unutulmuş adlar… Kütüphaneler, tükenmiş ya da başkalaşmış coğrafyaların, unutulmak üzere olan dillerle tutulmuş kayıtları… Hepsi geçmişi bugüne taşır; nadiri belirginleştirirken yiteni de görünür kılar.
 Bu metin, işte bu mekânlardan yola çıkarak nadirin izini sürüyor. Görünmezliğini kaldırırken, yok oluşun sessizliğini de hatırlatıyor. Az bulunanın, tehlikede olanın, çoktan kaybolmuş ya da kaybolmaya yüz tutan varlıkların hikâyesini kayda geçiriyor. Nadirin anlamı tam da bu yok oluş eşiğinde belirginleşiyor: bir zamanlar gökyüzünü karartan sürüler hâlinde uçan göçmen güvercin; yalnızca birkaç çizimde ve birkaç fosil kemikte yankısı kalan fildişi gagalı ağaçkakan; Atlantik’in kuzey kıyılarında milyonlarla yaşayan, bugünse ancak cam vitrinlerde karşımıza çıkan büyük alk; ve artık hiçbir adada görülmeyecek olan dodo gibi.
 Ama kaybolan yalnızca bedenler değildir. Bir türü çağıran kelime de unutuluyor; kelimenin sakladığı hikâye, o hikâyenin kökenindeki kültür de sessizleşiyor. Böylece biyolojik eksilme, dilde ve bellekte de yankısını buluyor. İşte bu çalışma, hem canlıların hem de onlara anlam veren isimlerin ve öykülerin kaydını tutarak nadirin çifte kırılganlığını, bedende ve dilde, bütün yönleriyle görünür kılmayı amaçlıyor.
-
