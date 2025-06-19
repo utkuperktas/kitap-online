@@ -8,7 +8,7 @@ nav_order: 1
 
 Nadir kelimesini düşündüğünüzde, önce bir kıymet belirir zihninizde: az bulunur, korunur, belki de kıyıda kalmış bir varlık, bir nesne… Ama kelimenin başka bir yüzü daha vardır: tehlikede olan — yok olmaya yakın. Ve kimi anlarda bu iki anlam iç içe geçer.
 
-Peki, nadir üzerine yazmaya başladığınızda ne olur? Kelimeler eksik kalır; kıymetli olana dilsel karşılık bulmak zorlaşır. En başta bu bir eksilme meselesidir: Yazı da eksilmeye başlar, anlamın sınırında sallanır; çünkü yok oluşu bütünüyle anlatacak bir dil hiçbir zaman kurulamaz.
+Peki, nadir üzerine yazmaya başladığınızda ne olur? Kelimeler eksik kalır; kıymetli olana dilsel karşılık bulmak zorlaşır. En başta bu bir eksilme meselesidir. Yazı da eksilmeye başlar, anlamın sınırında sallanır; çünkü yok oluşu bütünüyle anlatacak bir dil hiçbir zaman kurulamaz.
 
 Doğadaki çeşitliliğin vazgeçilmez bir bileşeni olan nadir, “kırılgan” tanımını bile aşacak ölçüde narin ve geçicidir. Bir kelebeğin tozunu anlatmak zordur. Bir kuşun ötüşünü artık duyulmayan bir dille aktarmaya çalışmak; bir zamanlar var olmuş bir sesi, bugün yalnızca sessizlikle betimlemek… Hele ki artık olmayanı tarif etmeye kalktığınızda, bir türün, bir sesin, bir kokunun, bir ismin geri dönmeyecek olduğunu bildiğinizde, metin de incelir; yazma eylemi direnç kazanmaz, aksine dağılır.
 
