@@ -1,10 +1,13 @@
 ---
 layout: default
-title: Giriş
+title: GİRİŞ
 nav_order: 1
 ---
 
-# Giriş – Nadir’in Kırılganlığı
+<div align="center">
+
+# GİRİŞ
+## Nadir’in Kırılganlığı
 
 Nadir kelimesini düşündüğünüzde, önce bir kıymet belirir zihninizde: az bulunur, korunur, belki de kıyıda kalmış bir varlık, bir nesne… Ama kelimenin başka bir yüzü daha vardır: tehlikede olan — yok olmaya yakın. Ve kimi anlarda bu iki anlam iç içe geçer.
 
