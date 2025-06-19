@@ -5,8 +5,10 @@ nav_order: 1
 ---
 
 <div align="center">
+  
 # GİRİŞ
 ## Nadir’in Kırılganlığı
+
 </div>
 
 Nadir kelimesini düşündüğünüzde, önce bir kıymet belirir zihninizde: az bulunur, korunur, belki de kıyıda kalmış bir varlık, bir nesne… Ama kelimenin başka bir yüzü daha vardır: tehlikede olan — yok olmaya yakın. Ve kimi anlarda bu iki anlam iç içe geçer.
