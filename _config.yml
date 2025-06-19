@@ -1,5 +1,5 @@
 title: "Nadir'in Kırılganlığı"
 description: "Nadir olanın hikâyesi"
 theme: just-the-docs
-color_scheme: light
 url: "https://utkuperktas.github.io/kitap-online"
+baseurl: "/kitap-online"
